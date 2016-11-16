@@ -1,5 +1,5 @@
 import * as ruta3 from 'ruta3';
-import * as flattenDeep from 'lodash.flattenDeep';
+import * as flattenDeep from 'lodash.flattendeep';
 
 function removeTrailingSlash(s: string) {
     return s.replace(/\/$/, '');
